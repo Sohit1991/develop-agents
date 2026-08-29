@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/RAG/">
+    <Project Path="QdranntVectorStore/QdranntVectorStore.csproj" Id="28fcb2b2-9a62-4fd2-95bd-ab3437620cbd" />
+  </Folder>
+  <Folder Name="/WorkFlows/">
+    <Project Path="AgenticWorkflowPatterns/AgenticWorkflowPatterns.csproj" Id="83289900-9525-403b-aba8-984ffddaefbc" />
+    <Project Path="AgentsWorkFlow/AgentsWorkFlow.csproj" Id="bfce56e6-4233-48a1-b064-df28715832fa" />
+    <Project Path="FirstWorkFlow/FirstWorkFlow.csproj" Id="75fcdf21-0d41-48f2-ae0b-a5514f1892ef" />
+  </Folder>
+  <Project Path="BasicAgentApp/BasicAgentApp.csproj" />
+  <Project Path="CustomContextProvider/CustomContextProvider.csproj" />
+  <Project Path="FunctionCall/FunctionCall.csproj" />
+  <Project Path="HelloAgent/HelloAgent.csproj" />
+  <Project Path="LongTermContextMemory/LongTermContextMemory.csproj" Id="7424cffc-7a94-468b-a550-f637039e7157" />
+  <Project Path="MultiTurn/MultiTurn.csproj" />
+</Solution>
