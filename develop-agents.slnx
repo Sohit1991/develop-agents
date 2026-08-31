@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/MCP/">
+    <Project Path="LocalGitHubMcpExample/LocalGitHubMcpExample.csproj" Id="6d0239d7-c8a8-4933-a782-56ebc52fac63" />
+  </Folder>
   <Folder Name="/RAG/">
     <Project Path="QdranntVectorStore/QdranntVectorStore.csproj" Id="28fcb2b2-9a62-4fd2-95bd-ab3437620cbd" />
   </Folder>
